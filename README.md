@@ -29,7 +29,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=18gourav&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=18gourav&limit=5&theme=algolia&show_all_yearly_contributions=true)
 
